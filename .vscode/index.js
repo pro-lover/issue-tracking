@@ -1,5 +1,5 @@
-var i = 0;
+var c = 0;
 setInterval(() =>{
-    console.log('iteration '+ i)
-    i++;
+    console.log('iteration '+ c)
+    c++;
 }, 1000)
